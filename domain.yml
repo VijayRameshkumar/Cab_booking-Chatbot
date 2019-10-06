@@ -43,7 +43,7 @@ templates:
   - text: "I am a bot, powered by Rasa."
 
   utter_cab_deatils:
-  - text: "'source: & Destiny:' using given format"
+  - text: "'source: & Destination:' using given format"
 
   utter_location:
   -  text: "your request recieved"
